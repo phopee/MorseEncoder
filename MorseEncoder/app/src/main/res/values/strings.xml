@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MorseEncoder</string>
+    <string name="send">Send</string>
+    <string name="write_text">Write text...</string>
+    <string name="encode">whisper</string>
+    <string name="decode">listen</string>
+    <string name="hint">write your text</string>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name='MorseEncoder'
+include ':app'
+include ':openCVLibrary323'
